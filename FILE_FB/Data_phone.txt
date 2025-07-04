@@ -1,0 +1,22 @@
+{
+    "key_reg": "Admin",
+        "name_Phone": "Roothide",
+            "entry": "948882848",
+                "linkdocs": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdH2lS14FSuhN4v7N5NvH9G8oy8dwWh2NiSV7C-oOWPb0Zz_g/formResponse",
+                    "entry_xit": "60796889",
+                        "link_2FA_NOMAIL": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfriaMDdq0hcg4rRljWh1ygZ2wyl983CSSed2k0y7cefON8sQ/formResponse?entry.495909829=",
+                            "link_2FA_MAIL": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeEuiHota15oTWTFld_8vlRgojN8Rnx7u_5sGwxKawPJdXEcg/formResponse?entry.134603978=",
+                                "linkdocs_xit": "https://docs.google.com/forms/u/0/d/e/1FAIpQLScw7UUS-z5GV-7CHZkVZ_MO9Hx53W-5beyM7MpenYJhl_qsWw/formResponse",
+                                    "entry_REG_NVR": "205493140",
+                                        "linkdocs_REG_NVR": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSe4DPAI98IZC_CIwF20T_Q0AUD-qDTCVNGtaylKxw1nrtR19A/formResponse",
+                                            "entry_REG_NVR_SDT": "316801100",
+                                                "linkdocs_REG_NVR_SDT": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSftpqUNv4IrI5vz6qVPlM0ABReamHkj4uiPUub5oa4nyhMNIQ/formResponse",
+                                                    "link_AppsCript_listAccount": "https://script.google.com/macros/s/AKfycbxiNScP7qwLEYHQUyOioLNYmzMQksez_bfNMJV6NFMjXqBbkgwGK7j4_fr-2O-cQhv9/exec",
+        "link_AppsCript": "https://script.google.com/macros/s/AKfycbyDIyWrGo_hNufT9IkR6s4x81EzXj_Cj9_pKlgfSHQ1SPhepXWL1y93Az7ryI8YZhuT/exec?task=getAPI&web=",
+"ET_may":"1540992146",
+"ET_solanreg": "1200908114",
+"ET_acclive": "657613340",
+"ET_accdie": "119791709",
+"ET_tyle": "197017428",
+"Link_TT":"https://docs.google.com/forms/u/0/d/e/1FAIpQLSclLqRgFNJRPw5zqN8-4_FXRZZ-95BWU6xAJ2w9iS5tkie-6g/formResponse"
+}
